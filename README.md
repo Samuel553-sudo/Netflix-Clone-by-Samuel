@@ -1,6 +1,4 @@
-# Title
-
-Netflix clone
+# Neflix Clone
 
 # Description
 
